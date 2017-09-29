@@ -8,3 +8,5 @@ LCBot 是一个为 Linux 中国服务的微信机器人，主要为 Linux 中国
 具体内容请前往原始Repo
 - [LCBot](https://github.com/LCTT/LCBot) : LCBot Linux中国微信机器人
 - [wxpy](https://github.com/youfou/wxpy) : 微信机器人 / 优雅而强大的微信个人号 API
+
+## 微信机器人暂时宣告结束 —— 腾讯封闭了 Web 端口
